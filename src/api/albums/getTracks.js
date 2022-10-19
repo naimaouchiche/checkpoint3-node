@@ -1,3 +1,1 @@
-module.exports = (req, res) => {
-  // your code here !
-};
+module.exports = (req, res) => {};
